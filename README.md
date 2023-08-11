@@ -19,3 +19,9 @@ Asides:
 - I use pyside so much for personal projects that I keep it as a global site package. The script design reflects this.
 - I have not tested it in a venv scenario.
 - I do not know if this script functions correctly on mac or linux.
+
+addendum aug/11/2023:
+i havent used this project personally in over a year.
+all my personal qt projects have migrated to the c++ version for better concurrency mechanics.
+everything above is left for posterity and i consider this project on indefinite hiatus.
+i may return to it eventually but i dont such in any predictable term of future.
